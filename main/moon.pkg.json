@@ -1,0 +1,6 @@
+{
+  "is_main": true,
+  "import": [
+    "k41531/sandbox-moonbit/lib"
+  ]
+}
